@@ -1,0 +1,4 @@
+baseURL = 'https://ccjjxl.github.com/'
+languageCode = 'zh-CN'
+title = 'ccjjxl'
+theme = 'ananke'
